@@ -8,4 +8,7 @@ _italic_
 
 ##notes
 
+... and the beach!
+![Kangaroo on the Beach](kangaroo_on_beach.jpg)
+
 
