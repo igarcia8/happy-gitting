@@ -4,7 +4,7 @@ Try out git and all that
 
 **bold**
 _italic_
-'code block'
+`code block`
 
 ##notes
 
