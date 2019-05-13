@@ -12,6 +12,3 @@ _italic_
 ![Kangaroo on the Beach](kangaroo_on_beach.jpg)
 
 
-
-## THE old version of the readme file
-
