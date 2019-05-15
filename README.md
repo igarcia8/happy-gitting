@@ -9,7 +9,7 @@ _italic_
 ##notes
 
 ... and the beach!
-![Kangaroo on the Beach](kangaroo_on_beach.jpg)
+![Kangaroo on the Beach](other_kangaroo.jpg)
 
 
 
